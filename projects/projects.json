@@ -1,0 +1,64 @@
+[
+  
+  {
+    "name": "Food Website",
+    "desc": "Welcome to Sri Ramana Home Foods! Our full-stack website lets you explore our sweet menu, learn about us, and get in touch easily.    ",
+    "image": "websiteimg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/sahithi925/sriramanasweets.git",
+      "code": "https://github.com/sahithi925/sriramanasweets.git"
+    }
+  },
+  {
+    "name": "Passenger Counter",
+    "desc": "A web application to track the number of entries at a train station.    ",
+    "image": "web2img",
+    "category": "mern",
+    "links": {
+      "view": "https://sahithipallavi.github.io/passengercounter/",
+      "code": "https://github.com/sahithipallavi/passengercounter.git"
+    }
+  },
+  {
+    "name": "Blackjack Game",
+    "desc": "This is a single-player, browser-based Blackjack game where the player tries to beat the dealer by getting a card sum closer to 21 without going over.    ",
+    "image": "web3img",
+    "category": "mern",
+    "links": {
+      "view": "https://sahithipallavi.github.io/blackjack/",
+      "code": "https://github.com/sahithipallavi/blackjack.git"
+    }
+  },
+  {
+    "name": "Mobile App",
+    "desc": "This web app enables users to create and manage a shopping list in real-time using Firebase. Add, remove, and edit items seamlessly with just a few clicks.    ",
+    "image": "web4img",
+    "category": "mern",
+    "links": {
+      "view": "https://sahithipallavi.github.io/mobileapp/",
+      "code": "https://github.com/sahithipallavi/mobileapp.git"
+    }
+  },
+  {
+    "name": "Runway Runners",
+    "desc": "Designed and developed a user-friendly coin collecting game using UNITY software for fun engagement",
+    "image": "web5img",
+    "category": "lamp",
+    "links": {
+      "view": "https://sahithi-pallavi.itch.io/runway-runners",
+      "code": "https://sahithi-pallavi.itch.io/runway-runners"
+    }
+  },
+  {
+    "name": "Tic-Tac-Toe",
+    "desc": "Tic Tac Toe is a two-player game in which the objective is to take turns and mark the correct spaces in a 3x3 (or larger) grid",
+    "image": "web6img",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+  
+]
